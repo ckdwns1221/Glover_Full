@@ -1,6 +1,6 @@
-# 🎊 새로운 안녕, 올라 HOLA!
+# 🍀 글로벌경영기술대학 + 개천절 = 글천절 Glover
 
-![KakaoTalk_20240403_025647672](https://github.com/ckdwns1221/ckdwns1221/assets/130385395/116d8d7a-0223-4a8e-b004-5e7fb0e2df5a)
+<img src="https://github.com/ckdwns1221/ckdwns1221/assets/130385395/116d8d7a-0223-4a8e-b004-5e7fb0e2df5a.png" width="1000.png" heigth="auto">
 
 - 배포 URL : https://glover.sku-sku.com/
   
@@ -19,8 +19,8 @@
 <div align="center">
 
 | **고창준** | **문호주** | **김은서** | **조준영** | **한민규** | **신민서** |
-| :------: |  :------: | :------: | :------: | :------: | :------: |
-| ![kcj](https://github.com/ckdwns1221/ckdwns1221/assets/130385395/81751f92-0563-4439-b9c5-f4d9aee2d3e7) | ![austrailia](https://github.com/ckdwns1221/ckdwns1221/assets/130385395/1c07c400-e7f7-4074-8a5d-243af1a2d871) | ![enseo](https://github.com/ckdwns1221/ckdwns1221/assets/130385395/9a5885dd-9854-4897-adec-2810729ccb36) | ![junyeong](https://github.com/ckdwns1221/ckdwns1221/assets/130385395/4add1934-89a7-4e96-8b9b-5787fb5b54e1) | ![mingyu](https://github.com/ckdwns1221/ckdwns1221/assets/130385395/91ac10b9-38ee-489e-9c87-2f000c31bd5a) |
+| 팀장,프론트엔드 |  백엔드 | 백엔드 | 프론트엔드 | 백엔드 | 프론트엔드 |
+| <img src="https://github.com/ckdwns1221/ckdwns1221/assets/130385395/81751f92-0563-4439-b9c5-f4d9aee2d3e7.png" width="100" height="100"> | ![austrailia](https://github.com/ckdwns1221/ckdwns1221/assets/130385395/1c07c400-e7f7-4074-8a5d-243af1a2d871) | ![enseo](https://github.com/ckdwns1221/ckdwns1221/assets/130385395/9a5885dd-9854-4897-adec-2810729ccb36) | ![junyeong](https://github.com/ckdwns1221/ckdwns1221/assets/130385395/4add1934-89a7-4e96-8b9b-5787fb5b54e1) | ![mingyu](https://github.com/ckdwns1221/ckdwns1221/assets/130385395/91ac10b9-38ee-489e-9c87-2f000c31bd5a) |
  ![minseo](https://github.com/ckdwns1221/ckdwns1221/assets/130385395/f0a00dfc-dcac-4182-8053-d66d20c3c164) |
 
 
